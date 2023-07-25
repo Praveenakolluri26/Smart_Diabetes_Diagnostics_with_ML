@@ -30,4 +30,6 @@
   <li>View the results and accuracy scores of each algorithm to determine the most accurate model.</li>
 </ul>
 <h2>Results</h2>
+<img src="db1.png">
+<img src="db2.png">
 
